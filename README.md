@@ -48,13 +48,17 @@
 - **位置**: `projects/legal-review-assistant/`
 - **目标**: 自动审查合同风险
 - **技术**: Claude Code CLI + Python + PDF 处理
-- **成果**: 审查时间 1h→10min, 准确率 85%+
+- **状态**: ⚠️ **代码完成，待测试验证**
+- **文件**: 6个Python文件
+- **需要**: 添加测试和示例数据
 
 ### **项目 3: 运营数据分析助手**
 - **位置**: `projects/operation-analytics/`
 - **目标**: 自动分析运营数据
 - **技术**: Claude Code CLI + Python + 可视化
-- **成果**: 分析时间 4h→30min, 专业级报告
+- **状态**: ⚠️ **代码完成，待测试验证**
+- **文件**: 6个Python文件
+- **需要**: 添加测试和示例数据
 
 ---
 
@@ -65,7 +69,7 @@
 - ✅ 学习笔记不 PR 到上游
 - ✅ 定期与 upstream 同步
 
-详细说明: [学习工作流程标准](https://github.com/srxly888-creator/openclaw-memory/blob/main/memory/learning-workflow-standard.md)
+详细说明: [学习工作流程标准](./.learning/07-学习工作流程标准.md)
 
 ---
 
@@ -119,9 +123,9 @@
 - 实际案例分享（待整理）
 
 ### **学习参考**
-- [学习工作流程标准](https://github.com/srxly888-creator/openclaw-memory/blob/main/memory/learning-workflow-standard.md)
-- [PR 纯度教训](https://github.com/srxly888-creator/openclaw-memory/blob/main/memory/pr-purity-lesson.md)
-- [上游一致性探索](https://github.com/srxly888-creator/openclaw-memory/blob/main/memory/learning-notes-upstream-sync.md)
+- [学习工作流程标准](./.learning/07-学习工作流程标准.md)
+- [PR 纯度教训](./memory/pr-purity-lesson.md)
+- [上游一致性探索](./memory/learning-notes-upstream-sync.md)
 
 ---
 
